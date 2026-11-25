@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "orvythmc.sadhost.com",
-    "port": 27778,
+    "ip": "SMPSKL.aternos.me",
+    "port": 22677,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "DarkZyroxback"
     },
     "anti-afk": {
@@ -27,13 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 9999,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium Server? https://discord.gg/VRMUnDkf95"
+        "
       ]
     },
     "chat-log": true,
